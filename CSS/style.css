@@ -1,0 +1,101 @@
+*{
+    font-family: 'Inter';
+}
+
+#section-sup {
+    background-color: #303030;
+    color: white;
+    padding: 100px;
+}
+
+#section-sup_title {
+    font-size: 50px;
+    line-height: 72px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+#section-landmarks {
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    padding-left: 200px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+}
+
+.sectioon-landmarks_title {
+    font-size: 35px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.sectioon-landmarks_text {
+    margin-top: 0px;
+    font-size: 17px;
+}
+
+#section-history {
+    display: grid;
+    grid-auto-flow: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#section-history_text {
+    margin-top: 12%;
+    margin-left: 160px;
+    text-align: justify;
+}
+
+#section-history_text_title {
+    font-size: 30px;
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
+
+#section-history_text_text {
+    font-size: 18px;
+}
+
+#section-history_img_example-img {
+    width: 380px;
+    height: 451px;
+    margin-right: 100px;
+    margin-left: 0px;
+}
+
+#section-contact {
+    background-color: #303030;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#section-contact_title {
+    margin-bottom: 50px;
+}
+
+input {
+    padding-left: 15px;
+    width: 450px;
+    height: 60px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 20px;
+}
+
+button {
+    width: 320px;
+    height: 60px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 35px;
+    font-weight: bolder;
+    background-color: #C07212;
+    color: white;
+}
